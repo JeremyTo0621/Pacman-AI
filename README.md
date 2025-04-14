@@ -1,12 +1,23 @@
-Pacman AI Project
-This project implements AI agents for the classic Pacman game using three core techniques:
+## Assignment 3 Branch
 
-Q1: Value Iteration Agent — Solves for the optimal policy in a Markov Decision Process using Value Iteration.
+This is the assignment 3 branch of the repo for FIT3080. This branch contains all the code you need for assignment 3. To get started with the assignment please follow the instructions below or in the getting started guide to clone the repo. 
+If you are unsure on how to clone our repo and navigate to the relevant branch, or have trouble with the instructions below, please contact us over the Ed forum, in your class or during consultation hours. We're happy to help get you set up for the assignments!
 
-Q2: Q-Learning Agent — Trains an agent via reinforcement learning using the Q-learning algorithm with epsilon-greedy exploration.
+---
 
-Q3: Multi-Layer Perceptron Agent — Predicts the best actions using a supervised learning model trained on game state-action pairs.
+## Clone this repository
 
-Each agent is evaluated across multiple maze sizes with varying training iterations. The project focuses on reward modeling, parameter tuning (γ, ε), and performance analysis across training, validation, and test phases.
+Run the following in the command line in the directory where you would like this repo to be stored.
 
-Implemented in Python using UC Berkeley’s CS188 Pacman AI framework.
+git clone --branch assignment3 https://bitbucket.org/shortestpathlab/fit3080.git
+
+You can also use [SourceTree](https://www.sourcetreeapp.com/) to clone the repo without using the command line. We recommend you use the command line as it is good practice and less work overall. 
+If you decide to use SourceTree then be aware that the teaching doesn't have experience with it and may not be able to help you if you get stuck. There should be plenty of resources to help you online though.    
+
+---
+
+## Next Steps
+
+Once you have cloned the repository you should finish reading the getting started guide and explore the code. Once you've finished with that you should be very prepared to tackle the assignment!
+
+---
